@@ -1,5 +1,5 @@
 # robosys_LED
-This is a report of robosys.
+2020 robot system homework 1
 
 ---
 このリポジトリは2021年度ロボットシステム学課題1のデバイスドライバーです。
@@ -13,3 +13,10 @@ This is a report of robosys.
 ### Raspberry Pi 4 Model B
 ---
 ##使用したもの
+
+・Raspberry Pi4 model B x1
+・LED x1
+・ブレッドボード x1
+・ジャンパワイヤ x4
+
+---
