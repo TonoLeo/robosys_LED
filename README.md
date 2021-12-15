@@ -15,8 +15,11 @@
 ##使用したもの
 
 ・Raspberry Pi4 model B x1
+
 ・LED x1
+
 ・ブレッドボード x1
+
 ・ジャンパワイヤ x4
 
 ---
