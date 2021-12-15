@@ -28,5 +28,5 @@
 
 ## 回路の配置
 
-![回路図](file:///home/leontono/%E3%83%94%E3%82%AF%E3%83%81%E3%83%A3/211215_kairozu.png)
+![回路図](https://github.com/TonoLeo/robosys_LED/issues/1#issue-1080523527)
 
