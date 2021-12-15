@@ -28,6 +28,8 @@
 
 ## 回路の配置
 
+![image](https://user-images.githubusercontent.com/91268353/146122171-1f3777f0-fbb3-4e24-9212-8780cbea8ef8.png)
+
 ---
 ## インストール方法
 
