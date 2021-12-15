@@ -28,5 +28,11 @@
 
 ## 回路の配置
 
-![回路図](https://github.com/TonoLeo/robosys_LED/issues/1#issue-1080523527)
+---
+## インストール方法
+
+使用したいディレクトリ内で以下のコマンドを実行してください。
+
+```sh
+$ git clone 
 
