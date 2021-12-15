@@ -34,5 +34,12 @@
 使用したいディレクトリ内で以下のコマンドを実行してください。
 
 ```sh
-$ git clone 
+$ git clone https://github.com/TonoLeo/robosys_LED.git
+$ cd robosys_LED
+$ make
+```
+実行後の後処理（ディレクトリ内のファイル）
+
+
+
 
