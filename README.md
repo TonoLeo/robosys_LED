@@ -26,8 +26,7 @@
 
 ---
 
-## 回路の配置図
+## 回路の配置
 
-![回路図](file:///home/leontono/%E3%83%94%E3%82%AF%E3%83%81%E3%83%A3/211215_kairozu.png![image](https://user-images.githubusercontent.com/91268353/146117151-d1d31cba-ee4c-4803-a13a-70e18f230149.png)
-)
+25番目のピンから入力の線を繋ぎ、
 
