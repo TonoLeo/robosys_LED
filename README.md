@@ -40,6 +40,25 @@ $ git clone https://github.com/TonoLeo/robosys_LED.git
 $ cd robosys_LED
 $ make
 ```
+
+実行するために権限を与える
+
+```sh
+$ sudo insmod myled.ko
+$ sudo chmod 666 /dev/myled0
+```
+以下のコマンドで点灯する
+
+```sh
+$ echo 1 > /dev/myled0
+```
+
+以下のコマンドで消灯する
+
+```sh
+$ echo 0 > /dev/myled0
+```
+
 実行後の後処理（ディレクトリ内のファイル）
 
 ```sh
