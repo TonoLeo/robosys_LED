@@ -12,7 +12,7 @@
 ### OS : ubuntu 20.04 server
 ### Raspberry Pi 4 Model B
 ---
-##使用したもの
+## 使用したもの
 
 ・Raspberry Pi4 model B x1
 
@@ -25,3 +25,8 @@
 ・抵抗 x1
 
 ---
+
+## 回路の配置図
+
+![回路図](https://files.slack.com/files-pri/T019WBKMZAS-F02QSJA19BL/ios__________.jpg　"回路図"）
+
